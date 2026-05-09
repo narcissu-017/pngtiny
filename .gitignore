@@ -1,0 +1,14 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+test_*.png
+*.log
+*.tmp
+.claude/
+.codex/
+.env
+.env.*
+DEVELOPMENT.md
+HANDOFF.md
